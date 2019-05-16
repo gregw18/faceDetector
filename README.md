@@ -16,8 +16,8 @@ gcc, OpenCV 3
 
 ## Authors
 
-* **Kaehler & Bradski, Learning OpenCV 3** - *Initial work* - (https://github.com/gregw18)
-* **Greg Walker** - *Initial work* - (https://github.com/gregw18)
+* **Kaehler & Bradski, Learning OpenCV 3** - *Examples used as basis for this work*
+* **Greg Walker** - *Modifications to meet exercise requirements* - (https://github.com/gregw18)
 
 
 ## License
